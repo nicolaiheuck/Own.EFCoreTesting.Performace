@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreTesting.Performace.AutoMapper", "EFCoreTesting.Performace.AutoMapper\EFCoreTesting.Performace.AutoMapper.csproj", "{98422350-8096-473D-B992-0FAB6DCB2FC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98422350-8096-473D-B992-0FAB6DCB2FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98422350-8096-473D-B992-0FAB6DCB2FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98422350-8096-473D-B992-0FAB6DCB2FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98422350-8096-473D-B992-0FAB6DCB2FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CF93D65-F3E1-435A-A84D-2D25686C7BC5}
+	EndGlobalSection
+EndGlobal

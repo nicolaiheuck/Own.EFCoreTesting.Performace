@@ -32,5 +32,6 @@ namespace EFCoreTesting.Performace.AutoMapper
         public string? O789 { get; set; }
         public string? P963 { get; set; }
         public string? J147 { get; set; }
+        public int Guid { get; set; }
     }
 }

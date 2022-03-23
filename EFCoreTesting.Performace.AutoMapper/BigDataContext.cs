@@ -25,6 +25,7 @@ namespace EFCoreTesting.Performace.AutoMapper
             {
                 optionsBuilder.EnableSensitiveDataLogging();
                 optionsBuilder.LogTo(Console.WriteLine, LogLevel.Information);
+                optionsBuilder.EnableServiceProviderCaching(false);
                 optionsBuilder.UseSqlServer("Data Source=DESKTOP-H8N03VT\\SQLEXPRESS;Initial Catalog=BigData;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
             }
         }
